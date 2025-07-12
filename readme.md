@@ -94,9 +94,17 @@ Currently working at **Roche Information Solutions**, I aspire to grow into a **
 ---
 
 <p align="center">
-  ✨ I'm currently open to opportunities in **Cloud Architecture**, **Platform Engineering**, and **MLOps**. Let's build resilient infrastructure together. ✨
+  ✨ I'm currently open to opportunities in **Cloud Architecture**, **Platform Engineering**, and **MLOps** or let's discuss for other oppportunities. Let's build resilient infrastructure together. ✨
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrmourya" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrmourya" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrmourya&layout=compact" alt="Top Languages" />
 </p>
+
+---
