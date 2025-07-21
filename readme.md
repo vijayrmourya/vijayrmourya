@@ -1,7 +1,8 @@
 # Hi there, I'm Vijay Mourya 🙋‍♂️
 
 <p align="center">
-  <strong>Senior DevOps & Cloud Engineer | AWS | GCP | Terraform | Kubernetes | CI/CD | MLOps Enthusiast</strong><br>
+  <strong>Senior DevOps & Cloud Engineer | AWS Serverless Expert | Automation Enthusiast</strong><br>
+  <strong>AWS | GCP | Terraform | Kubernetes | Python | Packer | Docker | Ansible | CI/CD | GitLab | Shell Scripting</strong><br>
   <em>Passionate about automation, architecture, and solving real-world infrastructure problems, and Gaming too!</em>
 </p>
 
@@ -9,7 +10,7 @@
 
 ## 🔄 About Me
 
-I am a seasoned DevOps and Infrastructure Reliability Engineer with over **6 years of hands-on experience** in designing, automating, and optimizing mission-critical deployments in **AWS and GCP**. I've led end-to-end initiatives across CI/CD automation, secure cloud infrastructure, container orchestration, and infrastructure as code.
+I am a seasoned DevOps and Infrastructure Reliability Engineer with over **6 years of hands-on experience** in designing, automating, and optimizing mission-critical deployments in **AWS and GCP**. I've led end-to-end initiatives across CI/CD & Cloud automation, secure cloud infrastructure, container orchestration, Serverless Applications and infrastructure as code.
 
 Currently working at **Roche Information Solutions**, I aspire to grow into a **Cloud Solutions Architect** role, enabling scalable, resilient, and cost-efficient architectures.
 
@@ -19,7 +20,7 @@ Currently working at **Roche Information Solutions**, I aspire to grow into a **
 
 * ✨ **Cloud Platforms**: AWS (Compute, Serverless & DevOps services), GCP (COmpute, Serverless & DevOps services)
 * 🌐 **IaC & Automation**: Terraform, Packer, CloudFormation, Ansible
-* 📅 **CI/CD & Pipelines**: GitLab Runners (EKS/GKE), Jenkins
+* 📅 **CI/CD & Pipelines**: GitLab, CodePipeline(AWS), CloudBuild(GCP), Jenkins
 * 🚀 **Containers**: Docker, Kubernetes, Helm
 * 🚒 **Serverless**: AWS Lambda, SSM, DynamoDB, Step Functions, SES, SQS, S3, ECS, ElasticBeanstalk, Cloud Run Functions, Cloud Pipelines
 * 📈 **Monitoring & Cost**: Athena, CloudWatch, Cost Explorer
