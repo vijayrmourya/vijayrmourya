@@ -12,7 +12,7 @@
 
 I am a seasoned DevOps and Infrastructure Reliability Engineer with over **6 years of hands-on experience** in designing, automating, and optimizing mission-critical deployments in **AWS and GCP**. I've led end-to-end initiatives across CI/CD & Cloud automation, secure cloud infrastructure, container orchestration, Serverless Applications and infrastructure as code.
 
-Currently working at **Roche Information Solutions**, I aspire to grow into a **Cloud Solutions Architect** role, enabling scalable, resilient, and cost-efficient architectures.
+Currently working as **Senior DevOps Engineer**, I aspire to grow into a **Cloud Solutions Architect** role, enabling scalable, resilient, and cost-efficient architectures.
 
 ---
 
@@ -72,7 +72,7 @@ Currently working at **Roche Information Solutions**, I aspire to grow into a **
 
 ## 🚪 Work Experience Summary
 
-### Senior DevOps Engineer | **Roche Information Solutions** – Pune, India | *Jul 2023 – Present*
+### Senior DevOps Engineer
 
 * GitLab Runners on EKS/GKE, Serverless Infrastructures, Automations, reusable Terraform modules, cost optimization automation, technical documentation & presentations, Scrum team management and Jira board management
 
@@ -88,7 +88,6 @@ Currently working at **Roche Information Solutions**, I aspire to grow into a **
 
 ## 📢 Let's Connect
 
-* 💼 [LinkedIn](https://linkedin.com/in/vijay-mourya-3b409b146)
 * 📧 Email: [vijayrmourya@gmail.com](mailto:vijayrmourya@gmail.com)
 * 📚 Resume: Available upon request
 
