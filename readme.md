@@ -1,7 +1,7 @@
 # Hi, I'm Vijay Mourya 👋
 
-**Senior DevOps & Cloud Engineer | AWS Serverless Specialist | Automation Advocate**  
-**AWS | GCP | Terraform | Kubernetes | Python | Docker | Ansible | CI/CD | GitLab**
+## Senior DevOps & Cloud Engineer | AWS Serverless Specialist | Automation Advocate**  
+## **AWS | GCP  | Kubernetes | Python**
 
 I build scalable, automated, and production-ready cloud systems. With 6+ years of real-world experience across AWS and GCP, I focus on creating resilient architectures, rapid delivery pipelines, and efficient infrastructure patterns for modern engineering teams.
 
