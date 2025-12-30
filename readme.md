@@ -16,31 +16,6 @@ Visit my detailed profile, projects, architecture diagrams, and case studies:
 
 ---
 
-## 🔧 Core Skills
-
-**Cloud Platforms** – 
-- AWS :Compute, Networking, Security, Serverless, DevOps, AI
-- GCP :Compute, Networking, Security, DevOps
-
-**AI & Cloud-Integrated ML** - 
-- Generative AI tools and cloud-native assistants: **Amazon Bedrock**, **Amazon Q**, **GitHub Copilot**, **NotebookLM**, **Gemini**, **ChatGPT**  
-(Used for automation acceleration, code generation, documentation, and pipeline optimization)
-
-**IaC & Automation** – Terraform, CloudFormation, Packer, Ansible  
-**Programming Languages** - Python, Shell Scripting
-**Frameworks 7 Libraries** - Pyetst, mock, boto3, Pydentic, Pandas
-**CI/CD Engineering** – GitLab CI, AWS CodePipeline, GCP Cloud Build, Jenkins  
-**Containers & Orchestration** – Docker, Kubernetes, Helm  
-**Serverless Systems** – 
-- AWS: Lambda, API Gateway, DynamoDB, SQS, Step Functions, SES, S3, 
-- GCP: Cloud Run 
-
-**Monitoring & Optimization** – CloudWatch, X-Ray, Athena, Cost Explorer  
-**Security & Access Control** – IAM, OIDC, RBAC, SSO  
-**Documentation & Collaboration** – Architecture diagrams, Tutorials, Technical docs, Knowledge sharing
-
----
-
 ## 📬 Connect
 
 **Email:** vijayrmourya@gmail.com  
