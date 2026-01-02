@@ -12,7 +12,7 @@ I currently work as a **Senior DevOps Engineer**, and I'm progressing toward a *
 ## 🌐 My Full Portfolio
 
 Visit my detailed profile, projects, architecture diagrams, and case studies:  
-👉 **https://vijayrmourya.github.io/vijaymourya/**
+👉 **https://vijayrmourya.github.io/ci-driven-portfolio/**
 
 ---
 
