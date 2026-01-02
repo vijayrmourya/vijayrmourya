@@ -1,37 +1,27 @@
-# Hi, I'm Vijay Mourya 👋
+## 👋 Hi, I’m Vijay
 
-## Senior DevOps & Cloud Engineer | AWS Serverless Specialist | Automation Advocate**  
-## **AWS | GCP  | Kubernetes | Python**
+Senior DevOps & Platform Engineer focused on **cloud architecture, CI/CD platforms, automation, and AI-assisted engineering**.
 
-I build scalable, automated, and production-ready cloud systems. With 6+ years of real-world experience across AWS and GCP, I focus on creating resilient architectures, rapid delivery pipelines, and efficient infrastructure patterns for modern engineering teams.
+### 🌐 Portfolio
+🔗 **https://vijayrmourya.github.io/ci-driven-portfolio/**
 
-I currently work as a **Senior DevOps Engineer**, and I'm progressing toward a **Cloud Solutions Architect** role—designing platforms that balance reliability, performance, and cost efficiency.
+My portfolio is built as a **CI-driven platform**, not a static site.  
+It showcases:
+- Python-based automation and content generation  
+- GitHub Actions CI/CD workflows  
+- YAML-driven configuration for projects and certifications  
+- GitHub Pages deployment  
+- Practical use of AI as a development peer  
 
----
+### 🧠 What you’ll find
+- Platform & cloud architecture projects  
+- DevOps, Cloud, and AI learning credentials  
+- Technical case studies and documentation  
+- Automation applied to a real personal platform  
 
-## 🌐 My Full Portfolio
+### 📫 Contact
+- 🌍 Portfolio: https://vijayrmourya.github.io/ci-driven-portfolio/  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vijay-mourya-3b409b146/) 
+- 📧 Email: vijayrmourya@gmail.com
 
-Visit my detailed profile, projects, architecture diagrams, and case studies:  
-👉 **https://vijayrmourya.github.io/ci-driven-portfolio/**
-
----
-
-## 📬 Connect
-
-**Email:** vijayrmourya@gmail.com  
-**Resume:** Available on request  
-**Open to:** Cloud Architecture, Platform Engineering, DevOps, and MLOps opportunities
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayrmourya" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrmourya&layout=compact" />
-</p>
-
----
-
-Thanks for stopping by—let’s build reliable, scalable systems together.
+Thanks for visiting 👨‍💻
