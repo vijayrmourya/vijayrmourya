@@ -17,12 +17,10 @@ It showcases:
 
 ### 📊 GitHub visual status
 
-![GitHub contribution chart](https://github.com/users/vijayrmourya/contributions)
+[![Top language](https://img.shields.io/github/languages/top/vijayrmourya/vijayrmourya?style=flat&color=blue)](https://github.com/vijayrmourya/vijayrmourya)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/vijayrmourya/vijayrmourya?style=flat&color=2ea44f)](https://github.com/vijayrmourya)
 
-[![Commit activity](https://img.shields.io/github/commit-activity/m/vijayrmourya/vijayrmourya?label=commit%20activity&style=flat&color=2ea44f)](https://github.com/vijayrmourya)
-[![Top language](https://img.shields.io/badge/Top%20Language-Python%20%7C%20Bash%20%7C%20YAML%20%7C%20Markdown-blue?style=flat&logo=github)](https://github.com/vijayrmourya)
-
-> GitHub-native contribution graph and stable activity badges for a reliable view of my commit history and core languages.
+> These badges pull language and commit momentum directly from GitHub, so they stay up to date automatically.
 
 ### 🧠 What you’ll find
 - Platform & cloud architecture projects
