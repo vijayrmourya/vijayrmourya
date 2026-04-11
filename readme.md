@@ -17,13 +17,12 @@ It showcases:
 
 ### 📊 GitHub visual status
 
-![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrmourya&layout=compact&theme=dark)
+![GitHub contribution chart](https://github.com/users/vijayrmourya/contributions)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrmourya&show_icons=true&count_private=true&theme=dark)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/vijayrmourya/vijayrmourya?label=commit%20activity&style=flat&color=2ea44f)](https://github.com/vijayrmourya)
+[![Top language](https://img.shields.io/badge/Top%20Language-Python%20%7C%20Bash%20%7C%20YAML%20%7C%20Markdown-blue?style=flat&logo=github)](https://github.com/vijayrmourya)
 
-![GitHub commit activity](https://ghchart.rshah.org/vijayrmourya)
-
-> These cards show the languages I use most, my contribution activity, and an at-a-glance view of my GitHub development footprint.
+> GitHub-native contribution graph and stable activity badges for a reliable view of my commit history and core languages.
 
 ### 🧠 What you’ll find
 - Platform & cloud architecture projects
