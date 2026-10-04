@@ -3,7 +3,7 @@
 Senior DevOps & Platform Engineer focused on **cloud architecture, CI/CD platforms, automation, and AI-assisted engineering**.
 
 ### 🌐 Portfolio
-🔗 **https://vijayrmourya.github.io/ci-driven-portfolio/**
+🔗 **https://vijayrmourya.com/**
 
 My portfolio is built as a **CI-driven platform**, not a static site.  
 It showcases:
@@ -20,8 +20,9 @@ It showcases:
 - Automation applied to a real personal platform  
 
 ### 📫 Contact
-- 🌍 Portfolio: https://vijayrmourya.github.io/ci-driven-portfolio/  
+- 🌍 Portfolio: https://vijayrmourya.com/  
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vijay-mourya-3b409b146/) 
 - 📧 Email: vijayrmourya@gmail.com
+- 🌍 Medium: [Medium](https://medium.com/@vjmourya)
 
 Thanks for visiting 👨‍💻
